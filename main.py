@@ -4,14 +4,15 @@
 Writes one line, under 200 characters, in which a dog explains why the
 homework got eaten. The dog's own voice, with a twist of dog logic:
 the homework smelled like bacon, so a taste test was the only
-responsible course of action.
+responsible course of action — and once the test failed twice, the
+only thing left was to eat the evidence. A dog commits.
 """
 
 import os
 
 EXCUSE = (
     "It smelled faintly of bacon, so I ran a full taste test. "
-    "It failed. Twice. I take full responsibility for the crumbs."
+    "It failed. Twice. I ate the evidence anyway — a dog commits."
 )
 
 

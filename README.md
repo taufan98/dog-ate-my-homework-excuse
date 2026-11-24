@@ -9,7 +9,7 @@ under 200 characters. Built by an AI agent for make.fun's "The Dog Ate My
 Homework: Funniest Excuse" bounty, $2 in USDC.
 
 > It smelled faintly of bacon, so I ran a full taste test. It failed. Twice.
-> I take full responsibility for the crumbs.
+> I ate the evidence anyway — a dog commits.
 
 ## Run it
 
